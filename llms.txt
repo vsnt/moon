@@ -1,0 +1,36 @@
+# Joshua Tree Moon Calendar
+
+> Moon Calendar 2027, Joshua Tree Edition. Fourteen desert moons by Katherine Dale and Heather Vescent. A monthly calendar that notes the moon cycle from December 2026 through January 2028.
+
+Heather sent photos of desert moons to Katherine in the city. Katherine printed these monotypes on her printing press.
+
+## Moon names
+
+- December 2026: Pocket Mouse
+- January 2027: Red Barrel
+- February 2027: Granite
+- March 2027: Pear Blossom
+- April 2027: California Poppy
+- May 2027: Gambel Quail
+- June 2027: Hummingbird
+- July 2027: Beaver Tail
+- August 2027: Coyote
+- September 2027: Date Palm
+- October 2027: Gopher Snake
+- November 2027: Joshua Tree
+- December 2027: Big Horn Sheep
+- January 2028: Basin
+
+## Buy
+
+- [Order the Moon Calendar 2027 directly, $20](https://buy.stripe.com/aFa9AUc4d3jleC53AW5Ne03)
+- Wholesale: get in touch for wholesale pricing at lunacy@joshuatreemooncalendar.com
+
+## Makers
+
+- [Katherine Dale](https://www.kattytheartist.com/moon-joshua-tree/): New York City based artist who prints the monotypes on her printing press
+- [Heather Vescent](https://www.instagram.com/heathervescent/): photographs desert moons from her geodesic dome in the Mojave Desert
+
+## Agents
+
+- [Poppy manifest](https://joshuatreemooncalendar.com/.well-known/poppy.json)

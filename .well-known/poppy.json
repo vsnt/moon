@@ -1,0 +1,11 @@
+{
+  "protocol_version": "1.0",
+  "organization": {
+    "name": "Joshua Tree Moon Calendar",
+    "domain": "joshuatreemooncalendar.com"
+  },
+  "auth": {
+    "disabled": true
+  },
+  "web": {}
+}
